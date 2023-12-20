@@ -56,7 +56,7 @@ public interface BaseApi {
 //    String LOCALHOT = "103.166.183.57"; // đc cho socket
 //    192.168.100.4
 
-    String LOCALHOT = "103.166.183.57"; // đc host
+    String LOCALHOT = "10.0.2.2"; // đc host
 //        String LOCALHOT = "192.168.100.4"; // đc cho socket
 //    String LOCALHOT = "103.166.183.57"; // đc cho socket
 //    String LOCALHOT = "192.168.1.144"; // đc cho socket
